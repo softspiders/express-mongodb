@@ -16,7 +16,7 @@ app.get("/", function(req, res) {
   });
 });
 
-var port = process.env.PORT || 1337;
+var port = process.env.PORT || 3000;
 var server = app.listen(port, function() {});
 
 console.log("Server running at http://localhost:%d", port);

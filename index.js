@@ -5,7 +5,7 @@ var app = express();
 app.get("/", function(req, res) {
 
   const MongoClient = require("mongodb").MongoClient;
-  const uri = "mongodb+srv://AlexanderLapygin:123@mymongo-nadvm.mongodb.net/test?retryWrites=true";
+  const uri = "YOUR_MONGODB_URL";
   
   MongoClient.connect(uri, function(err) {
     if (err) {

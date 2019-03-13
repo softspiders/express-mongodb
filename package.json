@@ -4,9 +4,6 @@
     "version": "0.1.0",
     "license": "MIT",
     "author": "Alexander Lapygin",
-    "engines": {
-        "node": ">=8.9.1"
-    },
     "scripts": {
         "start": "node index.js"
     },

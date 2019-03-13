@@ -4,8 +4,8 @@ var app = express();
 
 app.get("/", function(req, res) {
 
-  var MongoClient = require("mongodb").MongoClient;
-  var uri = "YOUR_MONGODB_URL";
+  const MongoClient = require("mongodb").MongoClient;
+  const uri = "mongodb+srv://AlexanderLapygin:123@mymongo-nadvm.mongodb.net/test?retryWrites=true";
   
   MongoClient.connect(uri, function(err) {
     if (err) {
@@ -16,7 +16,7 @@ app.get("/", function(req, res) {
   });
 });
 
-var port = process.env.PORT || 3000;
-var server = app.listen(port, function() {});
+const port = process.env.PORT || 3000;
+app.listen(port, function() {});
 
 console.log("Server running at http://localhost:%d", port);

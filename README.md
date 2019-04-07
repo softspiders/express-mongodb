@@ -31,7 +31,7 @@ The site is now running at <http://localhost:3000.>
 ## Authors
 
 * [abhilashmk](https://github.com/abhilashmk) - original code
-* [Alexander Lapygin](https://github.com/AlexanderLapygin) - embedding in [Soft Spiders](https://github.com/softspider)
+* [Alexander Lapygin](https://github.com/AlexanderLapygin) - catching in [Soft Spiders net](https://github.com/softspider)
 
 ### License
 

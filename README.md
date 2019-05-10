@@ -1,16 +1,12 @@
-# Minimalistic *express-mongodb* example
+# Simplest *express-mongodb* application
 
 ## Requirements
 
 [Node.js](https://nodejs.org/en/download/package-manager/)
 
-## Direct ancestors
+## Direct feature ancestors
 
-Yet absent (TBD)
-
-## Direct descendants
-
-Yet absent (TBD)
+[express](https://github.com/softspider/express)
 
 ---
 

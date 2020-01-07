@@ -1,5 +1,10 @@
 # Simplest *express-mongodb* application
 
+## Feature tags
+
+- express
+- mongodb
+
 ## Requirements
 
 [Node.js](https://nodejs.org/en/download/package-manager/)

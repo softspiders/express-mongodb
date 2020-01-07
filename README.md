@@ -4,6 +4,7 @@
 
 - express
 - mongodb
+- template
 
 ## Requirements
 

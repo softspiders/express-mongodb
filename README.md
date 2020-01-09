@@ -1,3 +1,5 @@
+SOFTSPIDERS
+
 # Simplest *express-mongodb* application
 
 ## Feature tags
@@ -10,7 +12,7 @@
 
 [Node.js](https://nodejs.org/en/download/package-manager/)
 
-## Direct feature ancestors
+## Direct ancestors
 
 [express](https://github.com/softspider/express)
 

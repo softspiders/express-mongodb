@@ -14,7 +14,7 @@ SOFTSPIDERS
 
 ## Direct ancestors
 
-[express](https://github.com/softspider/express)
+[express](https://github.com/softspiders/express)
 
 ---
 

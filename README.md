@@ -6,6 +6,7 @@
 
 - express
 - mongodb
+- starter
 - template
 
 ## Requirements
